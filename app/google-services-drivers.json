@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920788552007",
+    "project_id": "drivers-971a8",
+    "storage_bucket": "drivers-971a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920788552007:android:8ab16e1d61f3f27f5e6462",
+        "android_client_info": {
+          "package_name": "com.example.loginfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_OAt7QJIng_LHA23YdcBxpUOdfoHVKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
